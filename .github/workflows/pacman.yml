@@ -8,9 +8,23 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Generate Pacman
-        uses: liununu/generate-pacman-svg@main
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          svg_path: "img/pacman.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Pacman Animation
+        uses: marwin1991/snake-game@main
+        with:
+          output_path: 'img/pacman.svg'
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add img/pacman.svg
+          git diff --staged --quiet || git commit -m "Update Pac-Man animation"
+          git push
