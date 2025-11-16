@@ -7,19 +7,19 @@
 **Web Developer** | **UI/UX Enthusiast** | **Python Learner**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=400&height=100&lines=Hello+World!;Welcome+to+my+profile!;I'm+Galih+Satriangga" 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=2000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=400&height=100&lines= Welcome+to+my+profile!;I'm+Galih+Satriangga" 
        alt="Typing SVG" />
 </p>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Galih-11/Galih-11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Galih-11/Galih-11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Galih-11/Galih-11/output/pacman-contribution-graph.svg">
+</picture>
 
-## GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Galih-11&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=ffffff" width="90%" />
-</p>
-
+###
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Galih-11&theme=dark&background=000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
