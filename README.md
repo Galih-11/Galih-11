@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hello Everyone I'm Galih Sariangga
-
 ![Galih Satriangga](img/Galih-11_Banner.png)
 
 **Web Developer** | **UI/UX Enthusiast** | **Python Learner**
